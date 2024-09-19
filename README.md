@@ -1,4 +1,4 @@
-### Code for simluations, analyses and figures
+Code for simluations, analyses and figures
 
 of my doctoral thesis on
 ## Bayesian Inference for the Analysis of RNA-Seq Data
@@ -10,7 +10,7 @@ All parts of the thesis have folders with code.
 
 
 
-### All code and data used for 
+All code and data used for 
 
 ## PART 1: An Introduction to Bayesian Statistics
 
@@ -20,7 +20,7 @@ All parts of the thesis have folders with code.
 
 
 
-### All code and data used for 
+All code and data used for 
 
 ## PART 3: Analytical Bayesian Framework for Differential Gene Expression Analysis using RNA-Seq Data
 
@@ -54,7 +54,7 @@ Can be reproduced via [investigating_length_bias.ipynb](investigating_length_bia
 
 
 
-### All code and data used for 
+All code and data used for 
 
 # PART 4: What is a differentially expressed gene?
 
@@ -86,7 +86,7 @@ All code is written in Python 3.10.6, the conda environment export can be found 
 
 
 
-### All code and data used for 
+All code and data used for 
 
 ## PART 5: RNA-Seq in the detection of long-distance mobile mRNA in plants
 
@@ -99,7 +99,7 @@ The long-distance transport of messenger RNAs (mRNAs) has been shown to be impor
 
 
 
-### All code and data used for 
+All code and data used for 
 
 # PART 6: Bayes factors for the Analysis of RNA-Seq Data in the Detection of mobile mRNA in Plants
 
@@ -111,7 +111,7 @@ In Chapter 5 we learned about the long-distance mobility of mRNAs and that one w
 
 
 
-### All code and data used for 
+All code and data used for 
 
 ## PART 7: The adventurous endeavors of applying Bayes factors in the detection of mobile mRNAs on real RNA-Seq data
 
