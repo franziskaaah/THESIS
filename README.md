@@ -101,7 +101,7 @@ The long-distance transport of messenger RNAs (mRNAs) has been shown to be impor
 
 All code and data used for 
 
-# PART 6: Bayes factors for the Analysis of RNA-Seq Data in the Detection of mobile mRNA in Plants
+## PART 6: Bayes factors for the Analysis of RNA-Seq Data in the Detection of mobile mRNA in Plants
 
 ### Transparency note
 The work presented in this chapter is a collaborative effort of Melissa Tomkins, Saurabh Gupta, Federico Apelt, Julia Kehr, Friedrich Kragler, Richard J. Morris and myself. The statistical method introduced -- Bayes factors in the detection of mobile mRNAs -- has been [published](https://doi.org/10.1098/rsif.2022.0644) in 2022. A [software package](https://doi.org/10.21203/rs.3.rs-2520491/v1) to carry out this analysis has been published in 2023. Jump to software package [baymobil](github.com/mtomtom/baymobil). 
