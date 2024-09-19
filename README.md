@@ -56,7 +56,7 @@ Can be reproduced via [investigating_length_bias.ipynb](investigating_length_bia
 
 All code and data used for 
 
-# PART 4: What is a differentially expressed gene?
+## PART 4: What is a differentially expressed gene?
 
 ### Transparency note
 This chapter has largely profited from discussions about differential gene expression with Gurpinder Singh Sidhu, Thelonious Omori, Melissa Tomkins and Richard J. Morris. It is an extension to Chapter 3. 
